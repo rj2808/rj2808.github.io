@@ -12,8 +12,8 @@ description: >
   Hi, I am Rakshit, Currently a fourth year undergraduate at IIT Bombay
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rj2808.github.io" # the base hostname & protocol for your site
-twitter_username: rj2808
-github_username:  rj2808
+twitter_username: rj28081
+github_username: rj2808
 
 # Build settings
 markdown: kramdown

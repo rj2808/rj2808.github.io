@@ -1,20 +1,49 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
   <body>
     <div class="page-content">
       <div class="container">
-        <div class="three columns">
-          {% include header.html %}
-        </div>
-
         <div class="nine columns" style="z-index:100;">
           <div class="wrapper">
             {{ content }}
           </div>
         </div>
       </div>
-      {% include footer.html %} 
+  <footer class="site-footer">
+
+  <div class="wrap">
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>Rakshit Jain</li>
+      </ul>
+    </div>
+    <div class="footer github-icon-svg">
+
+        {% if site.github_username %}
+        {% include icon-github.html username=site.github_username %}
+        {% endif %}
+        {% if site.twitter_username %}
+        {% include icon-twitter.html username=site.twitter_username %}
+        {% endif %}
+    </div>
+    <div class="footer-col-2 column">
+        Room No. 233, Hostel-4<br />
+        Indian Institue of Techonology, Bombay
+        Mumbai-400076, India
+    </div>
+    <div class="footer-col-3 column">
+        <ul>
+            <li><a href="mailto:cheekujodhpur@gmail.com">rakshit28081996@gmail.com</a></li>
+            <li><a href="mailto:kumar.ayush@iitb.ac.in">rakshit.jain@iitb.ac.in</a></li>
+        </ul>
+    </div>
+     <div class="footer-col-1 column">
+       Design Credits: <a href="http://cheekujodhpur.github.io/">Kumar Ayush</a>
+    </div>
+
+  </div>
+</footer>
     </div>
   </body>
 </html>
