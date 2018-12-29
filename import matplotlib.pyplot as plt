@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+A = np.linspace(0,45, 10000)
+
+
+B = 1/ln(1/(10**4/4.8969- A**2)) * A
+print(B)
