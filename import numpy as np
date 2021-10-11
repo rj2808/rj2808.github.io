@@ -1,4 +1,0 @@
-import numpy as np
-import matplotlib.pyplot as plt
-
-x1 = np.array([-2,933,1931,2930.4,3929.9,4929.6])
