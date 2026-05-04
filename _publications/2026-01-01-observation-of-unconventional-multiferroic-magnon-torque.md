@@ -9,5 +9,3 @@ citation: 'Yuhan Liang et al. “Observation of Unconventional Multiferroic Magn
 ---
 
 Coauthor publication.
-
-**Recommended citation:** Yuhan Liang et al. “Observation of Unconventional Multiferroic Magnon Torque.” In press at Nature Communications.
