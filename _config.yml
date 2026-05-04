@@ -30,10 +30,9 @@ repository: "rj2808/rj2808.github.io"
 author:
   avatar: "profile.jpg"   # put your headshot in /images/profile.png or update this path
   name: "Rakshit Jain"
-  bio: ""
-  location: "Berkeley, CA"
+  bio: "Postdoctoral Researcher at UC Berkeley EECS"
   employer: "UC Berkeley"
-  email: "rj372@cornell.edu"
+  email: "rakshitjain@berkeley.edu"
   googlescholar: "https://scholar.google.com/citations?user=NGfvCi0AAAAJ&hl=en"       # add your Scholar URL or ID
   github: "rj2808"
   linkedin: ""            # add your LinkedIn username if desired
