@@ -9,5 +9,3 @@ citation: 'Rakshit Jain, Max Stanley, Arnab Bose, Anthony R. Richardella, Xiyue 
 ---
 
 Journal article.
-
-**Recommended citation:** Rakshit Jain, Max Stanley, Arnab Bose, Anthony R. Richardella, Xiyue S. Zhang, Timothy Pillsbury, David A. Muller, Nitin Samarth, and Daniel C. Ralph. “Thermal generation of spin currents in topological insulator Bi2Se3.” Science Advances, 2023.
