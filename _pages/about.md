@@ -27,11 +27,6 @@ During my PhD, I co-led the first experimental evidence that altermagnetic symme
 - Materials Innovators Program, Columbia University, Selected Participant, 2023
 - APS GMAG Travel Award, APS March Meeting 2023
 
-## Current positions
-
-- **Postdoctoral Associate**, UC Berkeley, with Prof. Sayeef Salahuddin, February 2026–present
-- **Visiting Scientist**, Cornell University, August 2025–present
-
 ## Education
 
 - **Ph.D., Applied and Engineering Physics**, Cornell University, 2024  
