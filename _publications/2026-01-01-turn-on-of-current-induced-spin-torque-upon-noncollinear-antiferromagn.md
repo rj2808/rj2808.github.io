@@ -9,5 +9,3 @@ citation: 'Xiaoxi Huang et al. “Turn-on of current-induced spin torque upon no
 ---
 
 Coauthor publication.
-
-**Recommended citation:** Xiaoxi Huang et al. “Turn-on of current-induced spin torque upon noncollinear antiferromagnetic ordering in delafossite PdCrO2.” In press at Advanced Materials.
