@@ -25,7 +25,6 @@ At Berkeley, I am building on this background to develop scalable material and d
 - Banner Bearer, Class of 2025, Cornell University Commencement Ceremony
 - APS Division of Materials Physics Ovshinsky Award, APS March Meeting 2024
 - Materials Innovators Program, Columbia University, Selected Participant, 2023
-- APS GMAG Travel Award, APS March Meeting 2023
 
 ## Education
 
