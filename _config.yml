@@ -30,7 +30,7 @@ repository: "rj2808/rj2808.github.io"
 author:
   avatar: "profile.jpg"   # put your headshot in /images/profile.png or update this path
   name: "Rakshit Jain"
-  bio: "Postdoctoral researcher|Spin and Ferroelectric devices for energy-efficient computing"
+  bio: "Spin and Ferroelectric devices for energy-efficient computing"
   location: "Berkeley, CA"
   employer: "UC Berkeley"
   email: "rj372@cornell.edu"
