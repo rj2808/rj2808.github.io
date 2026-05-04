@@ -18,6 +18,15 @@ During my PhD, I co-led the first experimental evidence that altermagnetic symme
 - Ferroic devices for memory, neuromorphic, and cryogenic computing
 - Quantum materials and spintronics
 
+## Selected awards and fellowships
+
+- APS Topical Group on Magnetism (GMAG) Outstanding Dissertation Award, 2024
+- Kavli Graduate Fellowship, Kavli Institute for Nano-Scale Science at Cornell
+- Banner Bearer, Class of 2025, Cornell University Commencement Ceremony
+- APS Division of Materials Physics Ovshinsky Award, APS March Meeting 2024
+- Materials Innovators Program, Columbia University, Selected Participant, 2023
+- APS GMAG Travel Award, APS March Meeting 2023
+
 ## Current positions
 
 - **Postdoctoral Associate**, UC Berkeley, with Prof. Sayeef Salahuddin, February 2026–present
