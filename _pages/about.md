@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "Rakshit Jain"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+Postdoctoral Researcher, UC Berkeley EECS
+Quantum materials, spintronics, and ferroelectric devices for energy-efficient computing
 
 I am a postdoctoral researcher in Electrical Engineering and Computer Sciences at UC Berkeley, working with [Prof. Sayeef Salahuddin](https://www2.eecs.berkeley.edu/Faculty/Homepages/salahuddin.html) on spintronic and ferroelectric device platforms for energy-efficient computing. My research explores how emergent materials physics — spin, topology, magnetism, and polarization — can be engineered in nanoscale devices to enable low-power memory, logic, and signal-processing technologies.
 
