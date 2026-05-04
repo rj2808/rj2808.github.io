@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For a pdf version of this CV see [CV.pdf](/CV.pdf).
+For a pdf version see [here](/CV.pdf).
 ## Contact
 
 **Rakshit Jain**  
