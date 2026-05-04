@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+For a pdf version of this CV see [CV.pdf](/cv.pdf).
 ## Contact
 
 **Rakshit Jain**  
