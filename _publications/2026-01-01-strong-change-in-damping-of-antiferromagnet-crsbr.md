@@ -9,5 +9,3 @@ citation: 'Rakshit Jain et al. “Strong change in damping of antiferromagnet Cr
 ---
 
 Manuscript in preparation.
-
-**Recommended citation:** Rakshit Jain et al. “Strong change in damping of antiferromagnet CrSBr.” In preparation.
