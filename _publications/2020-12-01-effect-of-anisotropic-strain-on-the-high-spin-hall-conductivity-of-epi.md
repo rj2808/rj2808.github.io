@@ -9,5 +9,3 @@ citation: 'Arnab Bose et al. “Effect of Anisotropic Strain on the high spin Ha
 ---
 
 Coauthor publication.
-
-**Recommended citation:** Arnab Bose et al. “Effect of Anisotropic Strain on the high spin Hall conductivity of epitaxial IrO2 thin films.” ACS Applied Materials & Interfaces 12, 49, 55411–55416 (2020).
