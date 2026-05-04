@@ -9,5 +9,3 @@ citation: 'Xiaoxi Huang*, Xianzhe Chen* et al. “Manipulating chiral-spin trans
 ---
 
 Coauthor publication.
-
-**Recommended citation:** Xiaoxi Huang*, Xianzhe Chen* et al. “Manipulating chiral-spin transport with ferroelectric polarization.” Nature Materials 23, 898–904 (2024).
