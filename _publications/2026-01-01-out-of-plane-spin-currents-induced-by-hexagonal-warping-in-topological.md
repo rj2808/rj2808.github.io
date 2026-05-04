@@ -9,5 +9,3 @@ citation: 'Rakshit Jain and Daniel C. Ralph. “Out-of-plane spin currents induc
 ---
 
 Manuscript in preparation.
-
-**Recommended citation:** Rakshit Jain and Daniel C. Ralph. “Out-of-plane spin currents induced by hexagonal warping in topological insulators.” In preparation.
