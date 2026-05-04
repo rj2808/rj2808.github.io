@@ -13,7 +13,7 @@ For a pdf version see [here](/CV.pdf).
 
 **Rakshit Jain**  
 Department of Electrical Engineering and Computer Sciences, UC Berkeley  
-Email: [rj372@cornell.edu](mailto:rj372@cornell.edu) / [rakshit28081996@gmail.com](mailto:rakshit28081996@gmail.com)  
+Email: [rakshitjain@berkeley.edu](mailto:rakshitjain@berkeley.edu) / [rj372@cornell.edu](mailto:rj372@cornell.edu) / [rakshit28081996@gmail.com](mailto:rakshit28081996@gmail.com)  
 Website: [rj2808.github.io](https://rj2808.github.io)
 
 ## Research interests
