@@ -14,9 +14,14 @@ At Berkeley, I am building on this background to develop scalable material and d
 
 ## Research interests
 
-- Scalable materials and device architectures for energy-efficient computing
-- Ferroic devices for memory, neuromorphic, and cryogenic computing
-- Quantum materials and spintronics
+- **Scalable materials and device architectures for energy-efficient computing**  
+  Integrating quantum, spintronic, and ferroic materials into nanoscale device platforms for memory, logic, and signal transduction.
+
+- **Ferroic devices for memory, neuromorphic, and cryogenic computing**  
+  Ferroelectric switching, negative capacitance, and hybrid ferroic architectures for nonvolatile and low-temperature memory.
+
+- **Quantum materials and spintronics**  
+  Topological materials, altermagnets, spin-current generation, spin-orbit torque, and antiferromagnetic dynamics.
 
 ## Selected awards and fellowships
 
