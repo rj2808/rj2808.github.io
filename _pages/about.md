@@ -17,7 +17,7 @@ At Berkeley, I am building on this background to develop scalable material and d
 - **Scalable materials and device architectures for energy-efficient computing**  
   Integrating quantum, spintronic, and ferroic materials into nanoscale device platforms for memory, logic, and signal transduction.
 
-- **Ferroic devices for memory, neuromorphic, and cryogenic computing**  
+- **Ferroelectric devices for memory, neuromorphic, and cryogenic computing**  
   Ferroelectric switching, negative capacitance, and hybrid ferroic architectures for nonvolatile and low-temperature memory.
 
 - **Quantum materials and spintronics**  
