@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I develop quantum material platforms that harness emergent electronic and spin transport phenomena for energy-efficient computing, translating fundamental physical mechanisms into device-relevant architectures.
+I am a postdoctoral researcher in Electrical Engineering and Computer Sciences at UC Berkeley, working with [Prof. Sayeef Salahuddin]{https://www2.eecs.berkeley.edu/Faculty/Homepages/salahuddin.html} on spintronic and ferroic device platforms for energy-efficient computing. My research explores how emergent materials physics — spin, topology, magnetism, and polarization — can be engineered in nanoscale devices to enable low-power memory, logic, and signal-processing technologies.
 
-I am currently a postdoctoral researcher in EECS at UC Berkeley with Sayeef Salahuddin, where I am working at the intersection of spintronic and ferroelectric device platforms for energy-efficient memory and computing. This builds directly on my PhD research at Cornell with Dan Ralph, where I worked on the physical principles at the frontier of spin-based memory and logic.
+I received my Ph.D. in Applied Physics from Cornell University, where I worked with [Prof. Daniel Ralph]{https://physics.cornell.edu/daniel-ralph} on quantum materials and spintronic devices. During my Ph.D., I co-led experiments demonstrating altermagnetic spin-current generation in RuO₂ (in [Nature Electronics]{https://www.nature.com/articles/s41928-022-00744-8}), elevated-temperature quantum anomalous Hall transport in van der Waals heterostructures ([arXiv:2412.05380]{https://arxiv.org/abs/2412.05380}), and efficient thermal generation of spin currents in topological insulators (in [Science Advances]{https://www.science.org/doi/full/10.1126/sciadv.adi4540}). These studies combined quantum materials synthesis, nanofabrication, low-temperature transport, and spin-torque measurements to probe new mechanisms for electronic-state control.
 
-During my PhD, I co-led the first experimental evidence that altermagnetic symmetry produces a new, exchange-driven mechanism for spin-current generation — published in Nature Electronics and cited over 500 times. I also demonstrated that topological insulators possess the largest spin Nernst response of any known material, and developed van der Waals heterostructure platforms that realize quantum anomalous Hall states at temperatures five times higher than previously achieved.
+At Berkeley, I am building on this background to develop scalable material and device architectures for energy-efficient computing, with a focus on antiferromagnetic dynamics, ferroelectric switching, and hybrid superconducting–ferroic systems. My long-term goal is to establish new computing hardware platforms that use quantum and ferroic order parameters as functional state variables beyond conventional charge-based electronics.
 
 ## Research interests
 
