@@ -152,18 +152,19 @@
     width: auto;
     height: auto;
   }
-   img {
-  width: 175px;
-  height: 175px;
-  object-fit: cover;
-  border-radius: 12px;
 
-  @include breakpoint($large) {
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
+  img {
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    border-radius: 12px;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
   }
-   }
-  }
+}
 
 
 .author__content {
