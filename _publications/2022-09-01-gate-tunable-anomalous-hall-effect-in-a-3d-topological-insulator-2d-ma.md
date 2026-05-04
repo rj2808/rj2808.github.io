@@ -9,5 +9,3 @@ citation: 'Vishakha Gupta*, Rakshit Jain*, Yafei Ren, Xiyue S. Zhang, Husain F. 
 ---
 
 *Equal contribution.
-
-**Recommended citation:** Vishakha Gupta*, Rakshit Jain*, Yafei Ren, Xiyue S. Zhang, Husain F. Alnaser, Amit Vashist, Vikram V. Deshpande, David A. Muller, Di Xiao, Taylor D. Sparks, and Daniel C. Ralph. “Gate-tunable anomalous Hall effect in a 3D topological insulator/2D magnet van der Waals heterostructure.” Nano Letters 22, 17, 7166–7172 (2022).
