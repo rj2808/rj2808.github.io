@@ -10,7 +10,7 @@ baseurl: ""
 repository: "rj2808/rj2808.github.io"
 
 author:
-  avatar: "profile.png"   # put your headshot in /images/profile.png or update this path
+  avatar: "profile.jpg"   # put your headshot in /images/profile.png or update this path
   name: "Rakshit Jain"
   bio: "Postdoctoral researcher working on quantum materials, spintronics, topology, and ferroic devices for next-generation computing hardware."
   location: "Berkeley, CA"
