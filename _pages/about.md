@@ -19,7 +19,7 @@ My current research is organized around three connected themes:
   Engineering ferroelectric switching, negative capacitance, and hybrid ferroic heterostructures for nonvolatile and low-temperature memory.
 
 - **Quantum materials and spintronics**  
-  Topological materials, altermagnets, spin-current generation, spin-orbit torque, and antiferromagnetic dynamics in device geometries.
+  Topological materials, altermagnets, spin-current generation, spin-orbit torque, and antiferromagnetic dynamics.
 
 I received my Ph.D. in Applied Physics from Cornell University, where I worked with [Prof. Daniel Ralph](https://physics.cornell.edu/daniel-ralph) as a [Kavli Fellow](https://www.kicnano.cornell.edu/people/rakshit-jain) on quantum materials and spintronic devices. During my Ph.D., I co-led experiments demonstrating altermagnetic spin-current generation in RuO₂ (in [*Nature Electronics*](https://www.nature.com/articles/s41928-022-00744-8)), elevated-temperature quantum anomalous Hall transport in van der Waals heterostructures ([arXiv:2412.05380](https://arxiv.org/abs/2412.05380) and [*Nano Letters*](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.2c02440)), and efficient thermal generation of spin currents in topological insulators (in [*Science Advances*](https://www.science.org/doi/full/10.1126/sciadv.adi4540})). These studies combined quantum materials synthesis, nanofabrication, low-temperature transport, and spin-torque measurements to probe new mechanisms for electronic-state control.My dissertation was awarded the [Outstanding dissertation in Magnetism Award](https://engage.aps.org/gmag/honors/prizes-awards/outstanding-dissertation-in-magnetism-awards) by the American Physical Society, recognizing the best dissertation in magnetism that year.
 
